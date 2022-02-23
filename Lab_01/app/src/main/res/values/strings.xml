@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Calculator">Calculator</string>
+    <string name="Nine">9</string>
+    <string name="Eight">8</string>
+    <string name="Seven">7</string>
+    <string name="Six">6</string>
+    <string name="Five">5</string>
+    <string name="Four">4</string>
+    <string name="Three">3</string>
+    <string name="Two">2</string>
+    <string name="One">1</string>
+    <string name="AC">AC</string>
+    <string name="Plus">+</string>
+    <string name="Minus">−</string>
+    <string name="Percent">%</string>
+    <string name="Multiply">×</string>
+    <string name="Delete">⌫</string>
+    <string name="Divide">÷</string>
+    <string name="Zero">0</string>
+    <string name="Comma">,</string>
+    <string name="Equal">=</string>
+    <string name="More">⟨</string>
+</resources>
